@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nabil-Sultan 30 Years Old 
 - 👀 I’m interested in Front-End Developer 
-- 🌱 I’m currently learning Vuex
-- 💞️ I’m looking to collaborate on project that using this one of framework I learned VueJS
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on project that using this one of framework I learned 
 - 📫 You can reach me by sending message on email: nonopipa01@gmail.com 
 
 <!---
